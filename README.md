@@ -1,4 +1,4 @@
-# hellow-world
+# hello-world
 Tutorial Repository to learn GITHUB
 
 Getting started on the journey to DEVOPs by learning GITHUB
